@@ -28,3 +28,4 @@ const davidson = new Pessoa('Davidson', 39);
 const laryssa = new Pessoa('Laryssa', 11);
 
 compararPessoas(davidson, laryssa);
+new Pessoa('Davidon', 39).descrever();
